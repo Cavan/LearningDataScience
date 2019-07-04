@@ -7,6 +7,6 @@ projects.
 ## Development Setup
 
 * Python version 2.7
-* IDE: VS Code
+* Editor: jupyter Notebook
 * Environment: Anaconda and Conda
 
